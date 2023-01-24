@@ -1,3 +1,5 @@
+#カレンダー
+
 require 'date'
 
 head = Date.today.strftime("%B %Y")  # 今日の月と西暦を取得
